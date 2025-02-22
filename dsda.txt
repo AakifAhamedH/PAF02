@@ -1,0 +1,11 @@
+//insert Employee table
+
+Create Table Employee(
+EmpNo varchar(20),
+fname char(20),
+lname char(20),
+address varchar(40),
+salary integer,
+DeptNo varchar(20)
+)
+/
